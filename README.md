@@ -1,7 +1,8 @@
 # Desafio do Amigo Secreto 🎁
+Este projeto faz parte da formação do programa **ONE (ORACLE Next Education) + Alura**.
 
-Este projeto faz parte da formação do programa ONE (ORACLE Next Education) + Alura.
 Este é um projeto simples e interativo para gerenciar uma lista de amigos e sortear um Amigo Secreto. A aplicação permite adicionar nomes a uma lista, visualizar os amigos cadastrados e realizar o sorteio de um nome aleatório.
+
 
 ## 🚀 Funcionalidades
 
